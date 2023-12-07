@@ -1,0 +1,21 @@
+Title: Java Programming Basics
+Description: Introduction to Java programming fundamentals.
+
+Title: Web Development Workshop
+Description: Hands-on session on building web applications.
+
+Title: Data Science Essentials
+Description: Exploring the world of data science and analytics.
+
+Title: Mobile App Development
+Description: Learn to build mobile applications for iOS and Android.
+
+Title: Cloud Computing Overview
+Description: Introduction to cloud computing technologies.
+
+Title: Cybersecurity Best Practices
+Description: Securing your applications and data.
+
+Title: AI and Machine Learning Trends
+Description: Current trends and applications of AI and ML.
+
