@@ -1,0 +1,1 @@
+# smqa-29-scientific-conference-organization-assistant
